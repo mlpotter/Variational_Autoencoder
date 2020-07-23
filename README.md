@@ -1,4 +1,5 @@
 # Variational_Autoencoder
 PyTorch implementation of variational autoencoder
 
-![alt text](https://github.com/mlpotter/Variational_Autoencoder/blob/master/images\variational_output.png)
+![alt text](https://github.com/mlpotter/Variational_Autoencoder/tree/master/images/architecture)
+![alt text](https://github.com/mlpotter/Variational_Autoencoder/tree/master/images/variational_output)
